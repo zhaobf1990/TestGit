@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/esign.iml" filepath="$PROJECT_DIR$/esign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esign.biz.kernel/esign.biz.kernel.iml" filepath="$PROJECT_DIR$/esign.biz.kernel/esign.biz.kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esign.bundle/esign.bundle.iml" filepath="$PROJECT_DIR$/esign.bundle/esign.bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esign.common/esign.common.iml" filepath="$PROJECT_DIR$/esign.common/esign.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esign.dal/esign.dal.iml" filepath="$PROJECT_DIR$/esign.dal/esign.dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esign.deploy/esign.deploy.iml" filepath="$PROJECT_DIR$/esign.deploy/esign.deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esign.web/esign.web.iml" filepath="$PROJECT_DIR$/esign.web/esign.web.iml" />
+    </modules>
+  </component>
+</project>

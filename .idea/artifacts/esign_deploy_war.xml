@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="esign.deploy:war">
+    <output-path>$PROJECT_DIR$/esign.deploy/target</output-path>
+    <root id="archive" name="esign.war">
+      <element id="artifact" artifact-name="esign.deploy:war exploded" />
+    </root>
+  </artifact>
+</component>
